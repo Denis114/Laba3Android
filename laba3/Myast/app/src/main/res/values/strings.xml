@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Myast</string>
+    <string name="title_activity_two">ActivityTwo</string>
+    <string name="act1">Activity1</string>
+    <string name="act2">Activity2</string>
+    <string name="act3">Activity3</string>
+    <string name="goto2">Goto Activity2</string>
+    <string name="goto3">Goto Activity3</string>
+    <string name="goto1">Goto Activity1</string>
+    <string name="title_activity_three">ActivityThree</string>
+</resources>

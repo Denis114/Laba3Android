@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+           xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/act3"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:textSize="18sp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentTop="true"/>
+
+        <Button
+            android:id="@+id/btnActThree"
+            android:layout_width="125dp"
+            android:layout_height="wrap_content"
+            android:text="@string/goto1"
+            android:onClick="gotoACT1"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"/>
+
+
+    </RelativeLayout>
+
+
+
